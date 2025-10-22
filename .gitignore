@@ -1,0 +1,18 @@
+# Ignorer les données d'entraînement/test
+Cat_Dog_data/
+Cat_Dog_data/*
+
+# Ignorer les environnements virtuels
+venv_deepL/
+
+
+# Ignorer les fichiers temporaires
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorer les checkpoints Jupyter
+.ipynb_checkpoints/
+
+# Ignorer les fichiers système macOS
+.DS_Store0
